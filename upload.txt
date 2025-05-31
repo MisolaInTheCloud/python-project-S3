@@ -1,0 +1,7 @@
+Meet Kemisola Adelakun — a dynamic professional with over 7 years of experience in the digital landscape. She began her career as a digital marketing strategist, mastering customer engagement, analytics, and retention strategies. Her deep understanding of customer lifecycle management led her into a specialized role in Technical CRM within the iGaming industry, where she excelled at orchestrating multi-channel campaigns and driving user loyalty at scale.
+
+Now a 2x AWS Certified cloud enthusiast, Kemisola is charting a bold new course into the world of cloud computing. With a strong foundation in data-driven marketing and a passion for building scalable, automated solutions, she is actively developing her cloud skills on AWS. She's particularly interested in serverless architecture, storage optimization, and customer data infrastructure.
+
+Known online as 'MisolaInTheCloud', Kemisola shares her learning journey and insights with a growing community of tech enthusiasts. Whether she’s experimenting with Lambda functions or optimizing customer journeys through infrastructure, her mission remains the same: to bridge user experience and technical excellence in the cloud.
+
+#CloudTransition #AWSLearner #WomenInTech #MisolaInTheCloud #iGamingTech
